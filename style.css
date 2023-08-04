@@ -1,0 +1,12 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+#Hero {
+    background-image: url(assets/Background-image.jpg);
+}
+
+.card-img-top {
+    border-radius: 5px;
+    padding: 2px;
+}
